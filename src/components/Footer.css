@@ -1,0 +1,18 @@
+.footer {
+  background-color: #644b06;
+  color: white;
+  display: flex;
+  align-items: center;
+  bottom: 0;
+  margin: 0px !important;
+  padding: 0px !important;
+  height: 7vh;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.copyright {
+  margin-top: 0;
+  cursor: pointer;
+  text-align: center;
+}
